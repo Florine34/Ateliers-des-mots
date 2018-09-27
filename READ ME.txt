@@ -1,0 +1,12 @@
+Installation :
+
+1 - Placez le dossier où vous souhaitez.
+
+2 - Déplacez le fichier de raccourci sur le bureau.
+
+3 - Double-cliquez sur le raccourci pour lancer l'application.
+
+Amusez-vous bien !
+
+P.S : un éventuel message d'erreur au lancement peut apparaître. Si c'est votre cas, 
+lancez le fichier jre-windows.exe et suivez les instructions d'installation.
